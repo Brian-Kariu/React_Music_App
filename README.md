@@ -23,7 +23,7 @@ npm run dev
 👤 **Brian Kariu**
 
 * Github: [@Brian-Kariu](https://github.com/Brian-Kariu)
-* LinkedIn: [@Brian Kariu](https://linkedin.com/in/BrianKariu)
+* LinkedIn: [@Brian Kariu](https://linkedin.com/in/brian-kariu)
 
 ## Show your support
 
