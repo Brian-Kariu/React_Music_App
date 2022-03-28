@@ -8,12 +8,14 @@
 
 ```sh
 npm install
+pip install django djangorestframework
 ```
 
 ## Usage
 
 ```sh
-npm run dev python manage.py runserver
+python manage.py runserver
+npm run dev
 ```
 
 ## Author
